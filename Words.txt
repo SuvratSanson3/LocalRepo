@@ -1,1 +1,2 @@
 I'm learning to work on git. After that I'll start with poetry.
+Then I'll start working on Deep Learning and Generative AI
