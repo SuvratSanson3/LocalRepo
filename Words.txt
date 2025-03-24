@@ -1,1 +1,1 @@
-I'm learning to work on git.
+I'm learning to work on git. After that I'll start with poetry.
